@@ -4,6 +4,10 @@ import os
 print("Hello, world")
 print("Hello, nurse")
 
+#User input
+favFood = input("What's your favorite food?: ")
+print("Your favorite food is " + favFood)
+
 #Variable declarations
 age = 27
 gamer = True
